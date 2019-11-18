@@ -5,5 +5,9 @@ public class UserController {
 		/***
 		 * zhangpanlong
 		 */
+		test();
+	}
+	private static void test() {
+		
 	}
 }
